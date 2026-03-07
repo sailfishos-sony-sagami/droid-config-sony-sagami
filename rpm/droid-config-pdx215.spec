@@ -2,7 +2,6 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
 %define device pdx215
-%define rpm_device xqbc52
 
 %define device_pretty Xperia 1 III
 
